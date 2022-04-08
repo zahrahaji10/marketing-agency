@@ -27,7 +27,14 @@ Title of the page amended from "webpage" to a suited discriptive name of "Busine
 ### Body
 
 Header
-![website header](./assets/images/Web%20capture_7-4-2022_16527_127.0.0.1.jpeg%20smaller.jpeg)
-The header section of the website contains a navigation bar that entails the three sections of the website; Search Engine Optimization Online Reputation Management Social Media Marketing. However, the html syntax of the website had undifferentiated divsions (divs) which were re-named into relevant semantic html elements such as header and a navbar as a subdivision in the header.
+
+The header section of the website contains a navigation bar that entails the three sections of the website; Search Engine Optimization Online Reputation Management Social Media Marketing. However, the html syntax of the website had undifferentiated divsions (<divs>) which were re-named into relevant semantic html elements such as header and a navbar as a subdivision in the header.
 
 Main
+
+The main section of the website contains three divisions that inform the reader on the types of marketing strategies. These three divisions in accordance to the semantic html elements come under sections therefore, the syntax for the sections has been changed from <div> to <section>. Whilst these changes do not case any alterations to the website, it enables the syntax to remain clear, detailed and accurate for individuals to understand and follow.
+
+Aside
+
+The sidebar division provides further information of some marketing statergies. Similar to the three sections in the main, the sidebar contains images visually aiding the website user. However, to make
+this website more friendly to people with disabilites each image was provided with alternative information <alt attributes>.
