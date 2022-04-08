@@ -32,9 +32,13 @@ The header section of the website contains a navigation bar that entails the thr
 
 Main
 
-The main section of the website contains three divisions that inform the reader on the types of marketing strategies. These three divisions in accordance to the semantic html elements come under sections therefore, the syntax for the sections has been changed from <div> to <section>. Whilst these changes do not case any alterations to the website, it enables the syntax to remain clear, detailed and accurate for individuals to understand and follow.
+The main section of the website contains three divisions that inform the reader on the types of marketing strategies. These three divisions in accordance to the semantic html elements come under sections therefore, the syntax for the sections has been changed from <div> to <section>.
 
 Aside
 
 The sidebar division provides further information of some marketing statergies. Similar to the three sections in the main, the sidebar contains images visually aiding the website user. However, to make
 this website more friendly to people with disabilites each image was provided with alternative information <alt attributes>.
+
+Footer
+
+The footer division of the html syntax has been re-named to an appropriate semantic element of footer. Whilst all the the amendments do not case any alterations to the website, it instead enables the syntax to remain clear, detailed and accurate for individuals to understand and follow.
