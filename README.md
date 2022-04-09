@@ -26,7 +26,7 @@ Title of the page amended from "webpage" to a suited discriptive name of "Busine
 
 #### Body
 
-[! screen shoot of website](./assets/images/marketing-agency-image.jpeg)
+[! screen shoot of website](../assets/images/marketing-agency-image.jpeg)
 
 #### Header
 
