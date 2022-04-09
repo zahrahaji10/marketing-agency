@@ -20,11 +20,11 @@ This document provides the the following information;
 
 ## Hyper Text Markup Language (HTML)
 
-### Head
+#### Head
 
 Title of the page amended from "webpage" to a suited discriptive name of "Business Marketing".
 
-### Body
+#### Body
 
 [! screen shoot of website](./assets/images/marketing-agency-image.jpeg)
 
