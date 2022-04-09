@@ -22,7 +22,7 @@ This document provides the the following information;
 
 #### Head
 
-Title of the page amended from "webpage" to a suited discriptive name of "Business Marketing".
+Title of the page amended from "webpage" to a suited discriptive name of "Marketing Agency".
 
 #### Body
 
