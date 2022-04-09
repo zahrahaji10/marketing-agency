@@ -12,7 +12,7 @@ This document provides the the following information;
 
 - Reorganisation of the websites HTML syntax to use semantic HTML elements were appropriate for different divisions.
 
-- Adjusting bot HTML and CSS syntax to improve functionality for example links in navigation bar.
+- Adjusting both HTML and CSS syntax to improve functionality for instance; fixing "search engine optimization" link in navigation bar.
 
 **CSS**
 
