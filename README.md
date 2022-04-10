@@ -6,7 +6,7 @@ Refactoring an existing site for a business marketing agency in order to more ac
 
 ## Content
 
-This document provides the the following information;
+This document provides the the following information on the methods used to refactor the webpage;
 
 **HTML**
 
@@ -16,9 +16,11 @@ This document provides the the following information;
 
 **CSS**
 
-- Reorganisation of CSS style sheet.
+- Reorganisation of CSS style sheet by condensing repeating styling properties.
 
 ## Hyper Text Markup Language (HTML)
+
+[Marketing agency website image ](../assets/images/marketing-agency-image.jpeg)
 
 #### Head
 
@@ -26,9 +28,7 @@ Title of the page amended from "webpage" to a suited discriptive name of "Market
 
 #### Body
 
-[screen shoot of website](../assets/images/marketing-agency-image.jpeg)
-
-#### Header
+##### Header
 
 The header section of the website contains a navigation bar that entails the three sections of the website; Search Engine Optimization Online Reputation Management and Social Media Marketing. However, the HTML syntax of the website had undifferentiated divsions < div > which were re-named into relevant semantic HTML elements such as header and a navbar as a subdivision in the header.
 
@@ -36,11 +36,11 @@ Main
 
 The main section of the website contains three divisions that informs the reader on the types of marketing strategies. These three divisions come under sections in accordance to the semantic HTML elements therefore, the syntax were changed from < div > to < section >.
 
-#### Aside
+##### Aside
 
 The sidebar division provides further information of some marketing statergies. Similar to the three sections in the main, the sidebar contains images which visually aid the website user. However, to make this website more friendly to people with disabilites, each image was provided with alternative information < alt attributes > describing the content of the image.
 
-#### Footer
+##### Footer
 
 The footer division of the HTML syntax has been re-named to an appropriate semantic element of footer. Whilst all the the amendments do not cause any alterations to the website, it instead enables the syntax to remain clear, detailed and accurate for individuals to understand and follow.
 
@@ -52,7 +52,7 @@ As a result of re-naming HTML division elements into specific semantic elements,
 
 ## Technologies
 
-The following technologies used for this project;
+The following technologies were used for this project;
 
 - HTML
 - CSS
