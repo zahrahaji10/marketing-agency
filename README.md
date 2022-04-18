@@ -4,6 +4,10 @@
 
 Refactoring an existing site for a business marketing agency in order to more accessible as well as user friendly for people with disabilities.
 
+## Deployed application link
+
+https://zahrahaji10.github.io/marketing-agency/
+
 ## Content
 
 This document provides the the following information on the methods used to refactor the webpage;
